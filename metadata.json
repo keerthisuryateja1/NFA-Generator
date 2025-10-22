@@ -1,0 +1,5 @@
+{
+  "name": "NFA Transition Table Generator",
+  "description": "An application that generates a transition table for a Non-deterministic Finite Automaton (NFA) based on user-defined language properties, using the Gemini API to construct the NFA.",
+  "requestFramePermissions": []
+}
